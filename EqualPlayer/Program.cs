@@ -1,27 +1,55 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 
-namespace EqualPlayer
+namespace FilePower1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // Creating instances of players
-            Player player1 = new Player(PlayerClass.Tank, "Ana");
-            Player player2 = new Player(PlayerClass.Slayer, "Paulo");
-            Player player3 = new Player(PlayerClass.Tank, "Ana"); // Same name and class as player1
-
-            // Creating a HashSet collection of players and adding the instances
-            HashSet<Player> setOfPlayers = new HashSet<Player>();
-            setOfPlayers.Add(player1);
-            setOfPlayers.Add(player2);
-            setOfPlayers.Add(player3);
-
-            // Iterating over the players and printing their names and classes
-            foreach (Player p in setOfPlayers)
+            // Check if the filename argument is provided
+            if (args.Length != 2 || args[0] != "--file")
             {
-                Console.WriteLine($"{p.Name} is a {p.PCClass}");
+                Console.WriteLine("Usage: dotnet run --project FilePower1 -- --file <filename>");
+                return;
+            }
+
+            // Get the filename from command-line arguments
+            string filename = args[1];
+
+            // Create a queue to store strings
+            Queue<string> stringQueue = new Queue<string>();
+
+            // Read user input in a loop
+            Console.WriteLine("Enter strings (empty string to stop):");
+            while (true)
+            {
+                string input = Console.ReadLine();
+
+                // Break the loop if the user enters an empty string
+                if (string.IsNullOrEmpty(input))
+                    break;
+
+                // Add the input string to the queue
+                stringQueue.Enqueue(input);
+            }
+
+            // Write strings from the queue to the file
+            WriteStringsToFile(filename, stringQueue);
+
+            Console.WriteLine("Strings written to file successfully.");
+        }
+
+        static void WriteStringsToFile(string filename, Queue<string> stringQueue)
+        {
+            // Write strings from the queue to the file
+            using (StreamWriter writer = new StreamWriter(filename))
+            {
+                while (stringQueue.Count > 0)
+                {
+                    writer.WriteLine(stringQueue.Dequeue());
+                }
             }
         }
     }
