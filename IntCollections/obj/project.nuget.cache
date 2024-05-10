@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/SCtZKnmXhn2WDJbCD+0uf5PddJ+dV/rdvl57np3kKAHj/iga3BZNrzhb5+MKOcNyF1P/hFpG0CXN6CDyZ7FDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\breno\\Lusófona\\MinhaPastaDeLP1\\LP1Semana09\\IntCollections\\IntCollections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breno\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\breno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\breno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\breno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}
