@@ -1,0 +1,14 @@
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\bin\Debug\net6.0\EqualPlayer.exe
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\bin\Debug\net6.0\EqualPlayer.deps.json
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\bin\Debug\net6.0\EqualPlayer.runtimeconfig.json
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\bin\Debug\net6.0\EqualPlayer.dll
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\bin\Debug\net6.0\EqualPlayer.pdb
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\obj\Debug\net6.0\EqualPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\obj\Debug\net6.0\EqualPlayer.AssemblyInfoInputs.cache
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\obj\Debug\net6.0\EqualPlayer.AssemblyInfo.cs
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\obj\Debug\net6.0\EqualPlayer.csproj.CoreCompileInputs.cache
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\obj\Debug\net6.0\EqualPlayer.dll
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\obj\Debug\net6.0\refint\EqualPlayer.dll
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\obj\Debug\net6.0\EqualPlayer.pdb
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\obj\Debug\net6.0\EqualPlayer.genruntimeconfig.cache
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\EqualPlayer\obj\Debug\net6.0\ref\EqualPlayer.dll
