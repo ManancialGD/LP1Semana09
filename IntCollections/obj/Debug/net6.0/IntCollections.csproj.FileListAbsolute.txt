@@ -1,0 +1,14 @@
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\bin\Debug\net6.0\IntCollections.exe
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\bin\Debug\net6.0\IntCollections.deps.json
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\bin\Debug\net6.0\IntCollections.runtimeconfig.json
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\bin\Debug\net6.0\IntCollections.dll
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\bin\Debug\net6.0\IntCollections.pdb
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\obj\Debug\net6.0\IntCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\obj\Debug\net6.0\IntCollections.AssemblyInfoInputs.cache
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\obj\Debug\net6.0\IntCollections.AssemblyInfo.cs
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\obj\Debug\net6.0\IntCollections.csproj.CoreCompileInputs.cache
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\obj\Debug\net6.0\IntCollections.dll
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\obj\Debug\net6.0\refint\IntCollections.dll
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\obj\Debug\net6.0\IntCollections.pdb
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\obj\Debug\net6.0\IntCollections.genruntimeconfig.cache
+C:\Users\breno\Lusófona\MinhaPastaDeLP1\LP1Semana09\IntCollections\obj\Debug\net6.0\ref\IntCollections.dll
