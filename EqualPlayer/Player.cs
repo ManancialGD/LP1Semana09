@@ -10,6 +10,21 @@ namespace EqualPlayer
             PCClass = pClass;
             Name = name;
         }
+
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+        public override bool Equals(object obj)
+        {
+            if (obj == null || GetType() != obj.GetType())
+            {
+                return false;
+            }
+
+            Player otherPlayer = (Player)obj;
+            return PCClass == otherPlayer.PCClass && Name == otherPlayer.Name;
+        }
     }
 
 }
